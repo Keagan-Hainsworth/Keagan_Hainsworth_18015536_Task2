@@ -1,0 +1,5 @@
+C:\Users\Keagan\Source\Repos\KeaganHainsworth_18015536_Task1\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Keagan\Source\Repos\KeaganHainsworth_18015536_Task1\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Keagan\Source\Repos\KeaganHainsworth_18015536_Task1\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Keagan\Source\Repos\KeaganHainsworth_18015536_Task1\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Keagan\Source\Repos\KeaganHainsworth_18015536_Task1\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
